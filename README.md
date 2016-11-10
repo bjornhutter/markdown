@@ -7,5 +7,5 @@ This is a simple markdown editor application made with [React](https://facebook.
 You write some markdown in the editor and React magically spits it out on the screen.
 
 ## Portfolio
-Feel free to visit my portfolio and see some of my other work: 
+Feel free to visit my portfolio to see some of my other work: 
 http://bjornhutter.com/
